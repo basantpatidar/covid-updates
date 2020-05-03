@@ -2,6 +2,8 @@ package com.spring.boot.covid.model;
 
 public class CovidCaseDTO {
 
+	//All POJO
+	
 	String country;
 
 	String day;
